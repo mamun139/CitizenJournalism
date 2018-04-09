@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_margin="10dp"
+    android:padding="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/llPopUpWindow"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvPopUpTermsCondition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:text="1) Officer In-Charge : ramana 01713373125
+2) OC dhanamandi 01713373126
+3) Officer In-Charge : sahabaga 01713373127
+4) Officer In-Charge : 01713373128 New market
+5) Officer In-Charge : lalabaga 01713373134
+6) Officer In-Charge : kotayali 01713373135
+7) Officer In-Charge : hajaribaga 01713373136
+8) Officer In-Charge : kamarangiracara 01713373137
+
+9) Officer In-Charge : sutrapura 01713373143
+10) Officer In-Charge : demara 01713373144
+11) Officer In-Charge : syamapura 01713373145
+12) Officer In-Charge : Jatrabari 01713373146
+13) 01713373152 Motijheel Officer In-Charge :
+14) Officer In-Charge : sabujabaga 01713373153
+15) Officer In-Charge : khilagao 01713373154
+16) Officer In-Charge : paltana 01713373155
+17) Officer In-Charge : uttara 01713373161
+18) Officer In-Charge : eyaraporta 01713373162
+19) Officer In-Charge : turaga 01713373163
+
+20) 01713373164 Officer In-Charge : uttarakhana
+21) Officer In-Charge : daksinakhana 01713373165
+22) Officer In-Charge : gulasana 01713373171
+23) Officer In-Charge : kyantanamenta 01713373172
+24) Officer In-Charge : badda 01713373173
+25) Officer In-Charge : khilakseta 01713373174
+26) Officer In-Charge : tejagao 01713373180
+27) Officer In-Charge : tejagao i / A- 01713373181
+28) Officer In-Charge : mohammadapura 01713373182
+29) Officer In-Charge : adabara 01713373183
+30) Officer In-Charge : mirapura 01713373189
+31) Officer In-Charge : pallabi 01713373190
+3) Officer In-Charge : kapharula 01713373191
+33) Officer In-Charge : Shah ali 01713373192" />
+
+    </LinearLayout>
+
+</ScrollView>
+
